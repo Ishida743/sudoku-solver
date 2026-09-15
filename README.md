@@ -34,6 +34,7 @@ Naked Single / Hidden Singleによる制約伝播で確定できるマスを埋�
 
 ```bash
 python sudoku_solver.py
+```
 
 ## 工夫した点
 
